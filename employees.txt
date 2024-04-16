@@ -1,0 +1,1 @@
+Employee [ID=1, fullName=Chung, birthDay=12, phone=321, email=3231, employee_Type=Experience]
